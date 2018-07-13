@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bai4</string>
+    <string name="btnDoSomething">Làm một vài thứ</string>
+    <string name="btnHaveFun">Có niềm vui</string>
+    <string name="btnClickHere">Bấm vào đây</string>
+    <string name="btnSurprise">Ngạc nhiên chưa</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bai4</string>
+    <!-- Main activity -->
+    <string name="btnHaveFun">Have Fun</string>
+    <string name="btnDoSomething">Do Something</string>
+    <string name="btnClickHere">Click Here</string>
+    <string name="btnSurprise">Suprise</string>
+</resources>

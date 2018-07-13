@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bai4</string>
+    <string name="btnHaveFun">" 楽しむ"</string>
+    <string name="btnDoSomething">何かをする</string>
+    <string name="btnClickHere">" ここをクリック"</string>
+    <string name="btnSurprise">驚き</string>
+</resources>
